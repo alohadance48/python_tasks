@@ -1,4 +1,4 @@
-# python_tasks
+# Python Apps
 
 Hi! I'm a beginning programmer and I make some useful apps.
 
