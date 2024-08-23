@@ -1,10 +1,10 @@
 # python_tasks
-Hi! Im  beginning  programmer and i create programm ,  This program is based on one of the problems, and I made a program that will help solve this task!
 
-This task sounds like this:
-You have massiv and u spawn on nomber_one nomber on you're standing represents your jump you must going to  the end! if u standing on 0 that means you lost.
+Hi! I'm a beginning programmer and I make some useful apps.
 
-p.s programm which help u with task , i post in my github ! 
+The first app is based on one of the problems, and I've created this app helps to solve this task.
+This task defines like this:
+- It's been an array and you can spawn on `number1` number. Your standing represents your jump. You must go to the end! Standing on `0` means you've lost.
 
 Good luck! 
 
